@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="OuShangAwards.BaseHelper" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAggAAEAAAgAAAAAAAAQSAEAAAAA=</HashCode>
+      <FileName>BaseHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OuShangAwards.CHCNetSDK" Collapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/////+////////////////////////////////////8=</HashCode>
+      <FileName>CHCNetSDK.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OuShangAwards.DeviceInfo" Collapsed="true">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAATEQAIRABEAAIAAAAAAAwAAIAAAIABAEEAAA=</HashCode>
+      <FileName>DeviceInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OuShangAwards.FaceRecognizeSignForm">
+    <Position X="8.75" Y="0.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEACAACBAAAACCCAoCAAAICAAgAAAAAABgAAE=</HashCode>
+      <FileName>FaceRecognizeSignForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OuShangAwards.FaceRecognizeSignProcess">
+    <Position X="3" Y="1.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAChAAIgAAAEgAACAAAAAAAAAIAEBAAAA=</HashCode>
+      <FileName>FaceRecognizeSignProcess.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OuShangAwards.HikVisionHelper">
+    <Position X="0.5" Y="1.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAggAAEAAAgAAAAAAAAQSAEAAAAA=</HashCode>
+      <FileName>HikVisionHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OuShangAwards.Program" Collapsed="true">
+    <Position X="12" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OuShangAwards.ToolHelper">
+    <Position X="5.75" Y="1.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAgAAAAAAAAAAAAEAAAAABAQAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>ToolHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OuShangAwards.Properties.Resources" Collapsed="true">
+    <Position X="11.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAIAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OuShangAwards.Properties.Settings" Collapsed="true">
+    <Position X="11" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="微软雅黑" Size="9" />
+</ClassDiagram>
